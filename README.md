@@ -1,6 +1,6 @@
 # Plan My Ride - Equestrian Events Aggregator
 
-> **Portfolio Project** | A full-stack web application that aggregates and displays unaffiliated equestrian events from multiple UK entry systems in a unified, searchable interface.
+> **Portfolio Project** | A full-stack web application that aggregates and displays equestrian events from multiple UK entry systems in a unified, searchable interface.
 
 **Note:** This is a closed-source portfolio project. The codebase is maintained in Azure DevOps and is showcased here to demonstrate technical capabilities and problem-solving skills.
 
